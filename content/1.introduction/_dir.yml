@@ -1,3 +1,4 @@
-title: 'Introducción'
-icon: ph:star-duotone
-navigation.redirect: /introduction/getting-started
+navigation:
+    title: 'Introducción'
+    icon: ph:house-duotone
+    redirect: /introduction/getting-started
