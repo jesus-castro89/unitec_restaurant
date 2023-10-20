@@ -34,7 +34,7 @@ export default defineAppConfig({
     },
 
     header: {
-      logo: true,
+      logo: false,
       showLinkIcon: true,
       exclude: [],
       fluid: true,
@@ -46,5 +46,14 @@ export default defineAppConfig({
         text: 'Powered by Docus. Todos los Derechos Reservados Jesús Aurelio Castro Magaña  2023.'
       }
     }
+  },
+
+  prose: {
+    h1: {},
+    h2: {},
+    h3: {},
+    h4: {},
+    h5: {},
+    h6: {}
   }
 })
